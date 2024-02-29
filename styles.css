@@ -1,2 +1,45 @@
 
 /* Your CSS Code here. */
+table, th, td
+{
+	border: solid 2px black;
+	border-collapse: collapse;
+}
+
+th
+{
+	background-color: brown;
+	color: ghostwhite;
+}
+th, td
+{
+	width: 100px;
+}
+
+.heading
+{
+	text-align: left;
+}
+
+td
+{
+	text-align: right;
+}
+
+#row1
+{
+	background-color: rosybrown;
+	color: whitesmoke;
+}
+
+#row2
+{
+	background-color: #F2DCDB;
+	color: black;
+}
+
+#row3
+{
+	background-color: lightgray;
+	color: black;
+}
